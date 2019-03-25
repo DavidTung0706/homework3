@@ -1,3 +1,4 @@
+package com.box;
 
 public class Box5 extends Box {
 

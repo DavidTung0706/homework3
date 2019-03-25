@@ -1,4 +1,4 @@
-package com.box
+package com.david
 
 import java.sql.SQLOutput
 import java.util.*
@@ -35,5 +35,5 @@ fun main() {
         }
     }
 
-    class Box3 : Box("Box3", 23f, 14f, 13f)
-    class Box5 : Box("Box5", 39.5f, 27.5f, 23f)
+    class Box3 : Box("com.box.Box3", 23f, 14f, 13f)
+    class Box5 : Box("com.box.Box5", 39.5f, 27.5f, 23f)

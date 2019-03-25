@@ -1,3 +1,5 @@
+package com.box;
+
 public class Box {
     protected String boxname;
     protected float length;
